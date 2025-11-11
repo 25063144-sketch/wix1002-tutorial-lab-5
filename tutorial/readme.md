@@ -6,24 +6,27 @@
     c.  Declare an array that used to store 100 students name.  
     d.  Declare an array for a table with 6 rows 2 columns that used to store integer value.  
     e.  Initialize an array with the following value:  
-        ```math
-        \begin{pmatrix}
-        6 & 9 \\
-        2 & 5 \\
-        4 & 6
-        \end{pmatrix}
-    	```
+	```math
+	\begin{pmatrix}
+	6 & 9 \\
+	2 & 5 \\
+	4 & 6
+	\end{pmatrix}
+	```
 
 
     f.  After initialize the array, modify the value of the above array to  
-        ```math
-        \begin{pmatrix}
-        6 & 9 \\
-        2 & 4 \\
-        3 & 7
-        \end{pmatrix}
-        ```
-    g.  Display all the values of an array name contact in separate lines.  
+	```math
+	\begin{pmatrix}
+	6 & 9 \\
+	2 & 4 \\
+	3 & 7
+	\end{pmatrix}
+	```
+    g.  Display all the values of an array name contact in separate lines.
+
+	---
+    
 
 1.  Correct the error for the following statements.   
 
@@ -50,6 +53,7 @@
 	score[1] = 78;
 	score[++i] = 100;
 	```
+ ---
 
 2.  Determine the values of each element of array marks. Assume the array was declared as:  
     ```java
@@ -63,8 +67,14 @@
     marks[2*j] = marks[j-1];
     ```
 
+---
+
 3.  Write the statements that display the number of occurrence of the word "the" (case sensitive) in a string array name sentence.  
 
+---
+
 4.  Write the statements that display the string array name sentence in reverse order. Each string element must be displayed in reverse order as well.  
+
+---
 
 5.  Write the statements that generate 1 random integer within 0-255. Convert the number to binary and store the bit into an 8-bit array. Then, display the binary number.  
